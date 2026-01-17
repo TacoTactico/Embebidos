@@ -1,4 +1,9 @@
-﻿Módulo C para MicroPython en ESP32-C6 (Rainbow / NeoPixel)
+﻿Links de Descarga y Documentacion: 
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/prerequisites.html
+https://docs.espressif.com/projects/vscode-esp-idf-extension/en/latest/installation.html#installation
+
+
+Módulo C para MicroPython en ESP32-C6 (Rainbow / NeoPixel)
 
 Este proyecto muestra cómo crear e integrar un módulo en C para MicroPython en un ESP32-C6, usando ESP-IDF 5.5.
 El ejemplo implementa un barrido de colores del NeoPixel.
